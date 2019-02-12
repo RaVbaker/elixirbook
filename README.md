@@ -1,6 +1,6 @@
 # ElixirBook
 
-**TODO: Add description**
+My solutions for problems from Dave Thomas book: Programming Elixir 1.6
 
 ## Installation
 
